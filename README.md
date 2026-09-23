@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 أهلاً بكم، أنا فهد | Hi, I'm Fahad
 
-<!--
-**ENG-Fahad2/ENG-Fahad2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ **مهتم بمجال الأمن السيبراني | Cybersecurity Learner**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 **عني | About Me**
+- 🚀 شغوف بالتطور والتعلم في مجالات الأمن السيبراني وحماية الشبكات.
+- 🎓 أدرس حالياً **شهادة Google للأمن السيبراني المهنية**.
+- 🏆 أسعى للحصول على الاعتماد المزدوج واجتياز اختبار **CompTIA Security+**.
+
+---
+
+### 📜 **الشهادات والإنجازات | Certifications**
+- ✅ **Foundations of Cybersecurity** - Google Cybersecurity (Course 1 Completed) 
