@@ -40,3 +40,9 @@
 ### 📬 **تواصل معي | Connect with Me**
 - 📧 **البريد الإلكتروني**: [gsoh3854@gmail.com](mailto:gsoh3854@gmail.com)
 - 💼 **LinkedIn**: [حسابي على LinkedIn](https://www.linkedin.com/in/ENG-Fahad-Mohammed)
+---
+
+### 📊 **إحصائيات GitHub | GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ENG-Fahad2&show_icons=true&theme=radial" alt="إحصائيات فهد" />
+</p>
