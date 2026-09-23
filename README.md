@@ -35,3 +35,8 @@
 
 ### 📚 **المشاريع والتوثيق | Projects & Documentation**
 - 📁 **[Google-Cybersecurity-Notes](https://github.com/ENG-Fahad2/Google-Cybersecurity-Notes)**: مستودع مخصص لتوثيق الملاحظات والملخصات العملية أثناء دراسة شهادة Google للأمن السيبراني.
+---
+
+### 📬 **تواصل معي | Connect with Me**
+- 📧 **البريد الإلكتروني**: [gsoh3854@gmail.com](mailto:gsoh3854@gmail.com)
+- 💼 **LinkedIn**: [حسابي على LinkedIn](https://www.linkedin.com/in/ENG-Fahad-Mohammed)
