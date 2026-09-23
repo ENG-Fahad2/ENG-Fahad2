@@ -1,6 +1,7 @@
 # 👋 أهلاً بكم، أنا فهد | Hi, I'm Fahad
 
 🛡️ **مهتم بمجال الأمن السيبراني | Cybersecurity Learner**
+![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
